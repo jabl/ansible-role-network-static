@@ -26,7 +26,7 @@ Example Playbook
 License
 -------
 
-GPLv3
+MPL 2.0
 
 Author Information
 ------------------
